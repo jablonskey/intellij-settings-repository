@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/teres/sabb-backend/intellij_style.xml" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
