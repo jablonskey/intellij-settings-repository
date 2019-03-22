@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://investmentmanager.service.manager.etf.source.com/xsd/InvestmentManagerServiceTypes" />
+  </component>
+</application>
