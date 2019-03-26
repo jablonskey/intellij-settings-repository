@@ -4,25 +4,25 @@
     <property name="created">2019-03-21T10:33:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-26T10:02:44</property>
+    <property name="modified">2019-03-26T10:33:34</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
