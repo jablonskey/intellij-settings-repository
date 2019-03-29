@@ -19,11 +19,11 @@
     <option name="themedScrollbars" value="false" />
     <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
-    <option name="customSidebarHeight" value="22" />
+    <option name="customSidebarHeight" value="21" />
     <option name="tabOpacity" value="5" />
     <option name="highlightThickness" value="3" />
     <option name="leftTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="ONE_DARK" />
