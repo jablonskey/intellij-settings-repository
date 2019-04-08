@@ -8,5 +8,6 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.tooltip.initialDelay" value="602" />
+    <entry key="tabs.alphabetical" value="true" />
   </component>
 </application>
