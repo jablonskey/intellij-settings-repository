@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\test\java\com\invesco\testingframework\etfm\frontend\tests\CreateAndAmendOrderTest.groovy [invesco]'" />
-    <option name="defaultScopeName" value="File '...\src\test\java\com\invesco\testingframework\etfm\frontend\tests\CreateAndAmendOrderTest.groovy [invesco]'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\test\java\com\invesco\testingframework\etfm\frontend\tests\CreateAndAmendOrderTest.groovy [invesco]'" />
+    <option name="customScope" value="Directory '...\src\test\java\com\invesco\testingframework\admintool\frontend [invesco]'" />
+    <option name="defaultScopeName" value="Directory '...\src\test\java\com\invesco\testingframework\admintool\frontend [invesco]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\test\java\com\invesco\testingframework\admintool\frontend [invesco]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
