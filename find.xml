@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\PlatformsPO.java'" />
-    <option name="defaultScopeName" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\PlatformsPO.java'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\PlatformsPO.java'" />
+    <option name="customScope" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
