@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
-    <option name="defaultScopeName" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
+    <option name="customScope" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\GridPO.java'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\GridPO.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\SwapTransactionsPO.java'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\invesco\testingframework\frontend\admintool\pageobjects\GridPO.java'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
