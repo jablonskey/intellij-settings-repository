@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -23,7 +22,7 @@
     <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="2979ff" />
     <option name="selectedTheme" value="ONE_DARK" />
